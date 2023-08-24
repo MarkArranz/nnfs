@@ -1,1 +1,1 @@
-# Code & Notes from <ins>Neural Network from Scratch</ins>
+# Code & Notes for [Neural Networks from Scratch](https://nnfs.io)
